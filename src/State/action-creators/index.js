@@ -8,7 +8,7 @@ export const depositeMoney = (amount ) => {
 
 } 
 
-//comiiwithdraw
+//comiiwithdrawc,jhehb
 export const withdrawMoney = (amount ) => {
     return (dispatch) => { 
         dispatch({
