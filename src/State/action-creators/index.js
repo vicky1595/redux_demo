@@ -8,6 +8,7 @@ export const depositeMoney = (amount ) => {
 
 } 
 
+//comiiwithdraw
 export const withdrawMoney = (amount ) => {
     return (dispatch) => { 
         dispatch({
